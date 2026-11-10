@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "stock-mcp": {
+      "type": "streamable_http",
+      "url": "https://api.zhiweigo.com/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_MCP_KEY"
+      }
+    }
+  }
+}
